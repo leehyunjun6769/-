@@ -1,0 +1,43 @@
+1. HTML5 표준에 따라 HTML 페이지에 반드시 있어야 하는 것이 아닌 것은?
+① <head> ② <img> ③ <body> ④ <!doctype html>
+정답 : 2번 <img> img는 이미지 삽입으로, 필수 사항이 아닌 선택사항이다.
+
+① ② ③ ④
+
+2. HTML 언어에서 사용되는 옳은 주석문은?
+① <!이것은 주석문> ② <!- 이것은 주석문 -> ③ <!-- 이것은 주석문 --> ④ <-- 이것은 주석문 -->
+정답 : 3번 <!--이것은 주석문-->
+
+3. 다음 중 틀린 것은?
+<img width = '100' height = "35" alt = 심장 src: sherk.png>
+  ① img        ② '100'                ③ 심장      ④ src:sherk.png
+정답 : 4번 src:sherk.png --> src = "sherk.png"로 수정되어야 함.
+
+4. href 속성을 가지지 않는 태그는?
+① <iframe> ② <a> ③ <area> ④ <base>
+정답 : 1번 <iframe> href와 iframe은 다른 하이퍼링크 방식
+
+href : 이동할 HTML 페이지의 URL 혹은 HTML 페이지 내 앵커 이름
+iframe: 인라인프레임이라고 부르며 내장윈도우를 만들어주는 프로그램이다.
+target : 링크에 연결된 HTML 페이지가 출력될 윈도우 이름 지정
+
+5. target 속성을 가지지 않는 태그는?
+① <iframe> ② <a> ③ <area> ④ <img>
+정답 : 1번 <iframe>, 4번<img> target은 링크로 출력된 탭을 지정하는 것이지, 사진과는 연관이 없다.
+
+6. src 속성을 가지지 않는 태그는?
+① <iframe> ② <embed> ③ <audio> ④ <div>
+정답 : 4번 <div>  src는 속성 이름을 뜻하고, div는 블록태그를 뜻함.
+
+8. 웹 브라우저에 다음과 같은 URL을 입력하였을 때, 웹 브라우저가 처리하는 과정을 설명하고자 한다.
+   다음 빈칸을 적절히 채워라.
+   [  http://www.univ.ac.kr/score.html  ]
+   
+과정 1) 웹 브라우저는 (           )에 접속한다.
+과정 2) 웹 브라우저는 (           )를 보내 줄 것을 웹 서버에 요청한다.
+과정 3) 웹 브라우저는 받은 웹 페이지를 해독하여 화면에 출력한다.
+정답 : 1. www.univ.ac.kr     2. score.html
+   
+   
+   
+   
